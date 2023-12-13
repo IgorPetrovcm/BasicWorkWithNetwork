@@ -1,0 +1,14 @@
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/bin/Debug/net7.0/AddressesInDotNet
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/bin/Debug/net7.0/AddressesInDotNet.deps.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/bin/Debug/net7.0/AddressesInDotNet.runtimeconfig.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/bin/Debug/net7.0/AddressesInDotNet.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/bin/Debug/net7.0/AddressesInDotNet.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/AddressesInDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/AddressesInDotNet.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/AddressesInDotNet.AssemblyInfo.cs
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/AddressesInDotNet.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/AddressesInDotNet.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/refint/AddressesInDotNet.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/AddressesInDotNet.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/AddressesInDotNet.genruntimeconfig.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/AddressesInDotNet/obj/Debug/net7.0/ref/AddressesInDotNet.dll
