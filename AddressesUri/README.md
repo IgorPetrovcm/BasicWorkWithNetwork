@@ -48,6 +48,56 @@ ___
 + `PathAndQuery`: возвращает значения свойств AbsolutePath и Query, разделяя их вопросительным знаком (?).
 + `Port`: возвращает номер порта для текущего адреса URI.
 + `Queri`: возвращает строку запроса из текущего адреса URI.
-+ `Sheme`: возвращает схему текущего адреса URI.
++ `Scheme`: возвращает схему текущего адреса URI.
 + `Segments`: возвращает массив сегментов пути для текущего адреса URI. Каждый сегмент представляет часть пути, которая ограничена слешами
 + `UserInfo`: возвращает имя и пароль пользователя.
+
+**Пример исползования:**
+```csharp
+Uri uri = new Uri("https://github.com/IgorPetrovcm/BasicWorkWithNetwork/tree/main/AddressesUri");
+        System.Console.WriteLine("Absolute path: " + uri.AbsolutePath);
+        System.Console.WriteLine("Authority: " + uri.Authority);
+        System.Console.WriteLine("Fragment: " + uri.Fragment);
+        System.Console.WriteLine("Host: " + uri.Host);
+        System.Console.WriteLine("Is absolute uri: " + uri.IsAbsoluteUri);
+        System.Console.WriteLine("Is default port: " + uri.IsDefaultPort);
+        System.Console.WriteLine("If file: " + uri.IsFile);
+        System.Console.WriteLine("Is loop back: " + uri.IsLoopback);
+        System.Console.WriteLine("Original string in construct: " + uri.OriginalString);
+        System.Console.WriteLine("Path and query: " + uri.PathAndQuery);
+        System.Console.WriteLine("Port: " + uri.Port);
+        System.Console.WriteLine("Query: " + uri.Query);
+        System.Console.WriteLine("Scheme: " + uri.Scheme);
+        System.Console.WriteLine("Segments: " + string.Join(", ",uri.Segments));
+        System.Console.WriteLine("User info: " + uri.UserInfo);
+```
+**Ответ компилятора:**
+```
+Absolute path: /IgorPetrovcm/BasicWorkWithNetwork/tree/main/AddressesUri
+Authority: github.com
+Fragment: 
+Host: github.com
+Is absolute uri: True
+Is default port: True
+If file: False
+Is loop back: False
+Original string in construct: https://github.com/IgorPetrovcm/BasicWorkWithNetwork/tree/main/AddressesUri
+Path and query: /IgorPetrovcm/BasicWorkWithNetwork/tree/main/AddressesUri
+Port: 443
+Query: 
+Scheme: https
+Segments: /, IgorPetrovcm/, BasicWorkWithNetwork/, tree/, main/, AddressesUri
+User info: 
+```
+
+## TryCreate
+Статический метод `TryCreate` позволяет создать новый Url имея **абсолютный** и **относительный** адрес, их мы можем создать с помощью значений перечисления `UriKind` и одного из  конструкторов `Uri`:
+```csharp
+Uri uriAbsolute = new Uri("https://github.com", UriKind.Absolute) ;
+Uri uriRelative = new Uri("IgorPetrovcm/BasicWorkWithNetwork/tree/main/AddressesUri", UriKind.Relative);
+```
+далее создаем экземпляр класса `Uri`, в который хотим передать полный URl, и:
+``` csharp
+Uri uri;
+Uri.TryCreate(uriAbcolute, uriRelative, out uri);
+```
