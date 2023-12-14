@@ -12,3 +12,17 @@
 /home/admin/General/csStudy/BasicWorkWithNetwork/AddressesUri/obj/Debug/net7.0/AddressesUri.pdb
 /home/admin/General/csStudy/BasicWorkWithNetwork/AddressesUri/obj/Debug/net7.0/AddressesUri.genruntimeconfig.cache
 /home/admin/General/csStudy/BasicWorkWithNetwork/AddressesUri/obj/Debug/net7.0/ref/AddressesUri.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\bin\Debug\net7.0\AddressesUri.exe
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\bin\Debug\net7.0\AddressesUri.deps.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\bin\Debug\net7.0\AddressesUri.runtimeconfig.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\bin\Debug\net7.0\AddressesUri.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\bin\Debug\net7.0\AddressesUri.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\AddressesUri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\AddressesUri.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\AddressesUri.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\AddressesUri.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\AddressesUri.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\refint\AddressesUri.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\AddressesUri.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\AddressesUri.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\AddressesUri\obj\Debug\net7.0\ref\AddressesUri.dll

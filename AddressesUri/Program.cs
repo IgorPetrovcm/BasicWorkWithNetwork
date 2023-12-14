@@ -4,13 +4,14 @@ class Program
 {
     static void Main()
     {
-        Uri uriAbsolute = new Uri("https://github.com",UriKind.Absolute);
-        Uri uriRelative = new Uri("IgorPetrovcm/BasicWorkWithNetwork/tree/main/AddressesUri",UriKind.Relative);
-        Uri uri;
-        if (Uri.TryCreate(uriAbsolute, uriRelative, out uri)) 
-        {
-            System.Console.WriteLine("URL успешно создан: " + uri.OriginalString);
-        }
-        else System.Console.WriteLine("URL введен неправильно.");
+        //https://github.com/IgorPetrovcm/BasicWorkWithNetwork
+        UriBuilder uriBuild = new UriBuilder();
+
+        uriBuild.Scheme = "https";
+        uriBuild.Host = "github.com";
+        uriBuild.Path = "IgorPetrovcm/BasicWorkWithNetwork";
+
+        Uri uri = uriBuild.Uri;
+        System.Console.WriteLine(uri);
     }
 }

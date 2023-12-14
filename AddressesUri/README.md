@@ -101,3 +101,36 @@ Uri uriRelative = new Uri("IgorPetrovcm/BasicWorkWithNetwork/tree/main/Addresses
 Uri uri;
 Uri.TryCreate(uriAbcolute, uriRelative, out uri);
 ```
+
+## UriBuilder class
+
+Класс `UriBuilder` позваляет создать адрес с помощью своих **свойств**:
++ `Fragment`: возвращает или задает фрагмент URI.
++ `Host`: возвращает или задает имя хоста или IP-адрес сервера.
++ `Password`: возвращает или задает пароль.
++ `Path`: возвращает или задает путь к ресурсу, на который ссылается URI.
++ `Port`: возвращает или задает номер порта URI.
++ `Query`: возвращает или задает строку запроса.
++ `Scheme`: возвращает или задает схему URI.
++ `UserName`:  возвращает или задает имя пользователя.
++ `Uri`: возвращает созданный экземпляр Uri.
+
+При возможности адрес `UriBuilder` можно задать конструктором:
+```csharp
+public UriBuilder(string scheme, string host, int port, string path, string extraValue);
+```
+Применение класса, если адрес: **https://github.com/IgorPetrovcm/BasicWorkWithNetwork**
+```csharp
+UriBuilder uriBuild = new UriBuilder();
+
+        uriBuild.Scheme = "https";
+        uriBuild.Host = "github.com";
+        uriBuild.Path = "IgorPetrovcm/BasicWorkWithNetwork";
+
+        Uri uri = uriBuild.Uri;
+        System.Console.WriteLine(uri);
+```
+Ответ компилятора
+```
+https://github.com/IgorPetrovcm/BasicWorkWithNetwork
+```
