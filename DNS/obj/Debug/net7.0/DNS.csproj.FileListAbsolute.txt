@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\bin\Debug\net7.0\DNS.exe
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\bin\Debug\net7.0\DNS.deps.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\bin\Debug\net7.0\DNS.runtimeconfig.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\bin\Debug\net7.0\DNS.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\bin\Debug\net7.0\DNS.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\DNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\DNS.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\DNS.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\DNS.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\DNS.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\refint\DNS.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\DNS.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\DNS.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\DNS\obj\Debug\net7.0\ref\DNS.dll
