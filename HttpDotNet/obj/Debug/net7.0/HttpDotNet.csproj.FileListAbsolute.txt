@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\bin\Debug\net7.0\HttpDotNet.exe
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\bin\Debug\net7.0\HttpDotNet.deps.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\bin\Debug\net7.0\HttpDotNet.runtimeconfig.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\bin\Debug\net7.0\HttpDotNet.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\bin\Debug\net7.0\HttpDotNet.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\HttpDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\HttpDotNet.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\HttpDotNet.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\HttpDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\HttpDotNet.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\refint\HttpDotNet.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\HttpDotNet.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\HttpDotNet.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpDotNet\obj\Debug\net7.0\ref\HttpDotNet.dll
