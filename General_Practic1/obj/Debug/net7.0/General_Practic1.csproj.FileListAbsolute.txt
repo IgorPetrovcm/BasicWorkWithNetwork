@@ -1,0 +1,14 @@
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/bin/Debug/net7.0/General_Practic1
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/bin/Debug/net7.0/General_Practic1.deps.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/bin/Debug/net7.0/General_Practic1.runtimeconfig.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/bin/Debug/net7.0/General_Practic1.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/bin/Debug/net7.0/General_Practic1.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/General_Practic1.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/General_Practic1.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/General_Practic1.AssemblyInfo.cs
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/General_Practic1.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/General_Practic1.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/refint/General_Practic1.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/General_Practic1.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/General_Practic1.genruntimeconfig.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/General_Practic1/obj/Debug/net7.0/ref/General_Practic1.dll
