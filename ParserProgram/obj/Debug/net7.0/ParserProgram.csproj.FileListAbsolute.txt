@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\bin\Debug\net7.0\ParserProgram.exe
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\bin\Debug\net7.0\ParserProgram.deps.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\bin\Debug\net7.0\ParserProgram.runtimeconfig.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\bin\Debug\net7.0\ParserProgram.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\bin\Debug\net7.0\ParserProgram.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ParserProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ParserProgram.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ParserProgram.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ParserProgram.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ParserProgram.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\refint\ParserProgram.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ParserProgram.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ParserProgram.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\ParserProgram\obj\Debug\net7.0\ref\ParserProgram.dll
