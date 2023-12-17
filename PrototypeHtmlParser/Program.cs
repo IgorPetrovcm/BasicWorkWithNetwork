@@ -22,7 +22,7 @@ class Program
             count++;
         }
         System.Console.Write(html[count] + "\n");
-        for (int i = count; i < html.Length; i++)
+        for (int i = count+1; i < html.Length; i++)
         {
             if (html[i] == '<')
             {
@@ -31,6 +31,7 @@ class Program
                 if (html[i+1] == '/')
                 {
                     stack.Pop();
+                    Console.Write("\n" + CorrectIndentation(stack.Count));
                     while (html[i+countToEndTag] != '>')
                     {
                         System.Console.Write(html[i+countToEndTag]);
@@ -42,7 +43,7 @@ class Program
                 }
 
                 stack.Push('<');
-                while (html[i+countToEndTag] != '>' || html[i+countToEndTag] != '/' )
+                while (html[i+countToEndTag] != '>' && html[i+countToEndTag] != '/' )
                 {
                     Console.Write(html[i + countToEndTag]);
                     countToEndTag++;
@@ -56,11 +57,12 @@ class Program
                 if (html[i + countToEndTag] == '/')
                 {                    
                     stack.Pop();
-                    System.Console.Write(html[countToEndTag + i] + html[countToEndTag + i + 1] + "\n" + CorrectIndentation(stack.Count));
-                    i += countToEndTag;
+                    System.Console.Write(html[countToEndTag + i].ToString() + html[countToEndTag + i + 1].ToString() + "\n" + CorrectIndentation(stack.Count));
+                    i += countToEndTag+1;
                     continue;
                 }
             }
+            Console.Write(html[i]);
         }
     }
 }
