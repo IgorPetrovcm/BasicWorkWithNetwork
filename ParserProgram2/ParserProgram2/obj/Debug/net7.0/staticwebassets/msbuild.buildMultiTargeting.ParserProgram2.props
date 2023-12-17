@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ParserProgram2.props" />
+</Project>

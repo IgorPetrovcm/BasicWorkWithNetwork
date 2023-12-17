@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "sB9euAwC+olNL0np8+oPTp0Z/Me9HnCIvSPtVrzjREA=",
+  "Source": "ParserProgram2",
+  "BasePath": "_content/ParserProgram2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ParserProgram2/wwwroot",
+      "Source": "ParserProgram2",
+      "ContentRoot": "/home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/wwwroot/",
+      "BasePath": "_content/ParserProgram2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/wwwroot/css/index.css",
+      "SourceId": "ParserProgram2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/wwwroot/",
+      "BasePath": "_content/ParserProgram2",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/index.css"
+    }
+  ]
+}
