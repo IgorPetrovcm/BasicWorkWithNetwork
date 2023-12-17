@@ -1,0 +1,14 @@
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/PrototypeHtmlParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/PrototypeHtmlParser.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/PrototypeHtmlParser.AssemblyInfo.cs
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/PrototypeHtmlParser.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/bin/Debug/net7.0/PrototypeHtmlParser
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/bin/Debug/net7.0/PrototypeHtmlParser.deps.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/bin/Debug/net7.0/PrototypeHtmlParser.runtimeconfig.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/bin/Debug/net7.0/PrototypeHtmlParser.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/bin/Debug/net7.0/PrototypeHtmlParser.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/PrototypeHtmlParser.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/refint/PrototypeHtmlParser.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/PrototypeHtmlParser.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/PrototypeHtmlParser.genruntimeconfig.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/PrototypeHtmlParser/obj/Debug/net7.0/ref/PrototypeHtmlParser.dll
