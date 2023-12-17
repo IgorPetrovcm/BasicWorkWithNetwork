@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "ParserProgram2/1.0.0": {
+        "dependencies": {
+          "LibTest2": "1.0.0"
+        },
         "runtime": {
           "ParserProgram2.dll": {}
+        }
+      },
+      "LibTest2/1.0.0": {
+        "runtime": {
+          "LibTest2.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ParserProgram2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibTest2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

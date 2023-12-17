@@ -26,3 +26,7 @@
 /home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/obj/Debug/net7.0/ParserProgram2.genruntimeconfig.cache
 /home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/obj/Debug/net7.0/ref/ParserProgram2.dll
 /home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/bin/Debug/net7.0/ParserProgram2.staticwebassets.runtime.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/bin/Debug/net7.0/LibTest2.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/bin/Debug/net7.0/LibTest2.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/obj/Debug/net7.0/ParserProgram2.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/ParserProgram2/ParserProgram2/obj/Debug/net7.0/ParserProgram2.csproj.CopyComplete

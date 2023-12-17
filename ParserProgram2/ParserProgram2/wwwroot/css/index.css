@@ -12,3 +12,8 @@ body {
     display:flex;
     justify-content:center;
 }
+div{
+    hyphens:auto;
+    font-size: 5px;
+    
+}

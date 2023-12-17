@@ -19,19 +19,20 @@ public class HomeController : Controller
         {
             using (HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, address))
             {
-                try
-                {
+                /*try
+                {*/
                     using (HttpResponseMessage resp = client.SendAsync(request).Result)
                     {
-                        ViewBag.Message = resp.Content.ReadAsStringAsync().Result;
+                        ViewBag.Message = CorrectHtmlText.GetCorrectHtmlText(resp.Content.ReadAsStringAsync().Result);
                         return View();
                     }
-                }
-                catch
+                //}
+                /*catch
                 {
+                    
                     Response.StatusCode = (int)HttpStatusCode.BadRequest;
                     return View("/Views/StatusCodes/AddressNotFound.cshtml");
-                }
+                }*/
             }
         }
     }
