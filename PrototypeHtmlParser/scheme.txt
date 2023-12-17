@@ -1,0 +1,15 @@
+< ! d o c t y p e   h t m l +
+>"\n"
++
+result:
+<!doctype html>
++
+
+' ' != '<'
+
+' '
+result:
+<!doctype html>
+ +
+
+'<' == '<'
