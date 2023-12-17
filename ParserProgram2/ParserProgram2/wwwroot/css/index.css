@@ -8,6 +8,7 @@ body {
 }
 .form_address {
     margin:auto;
+    flex-direction: column;
     display:flex;
     justify-content:center;
 }

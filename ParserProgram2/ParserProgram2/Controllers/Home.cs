@@ -1,5 +1,7 @@
 
+using System.Net;
 using Microsoft.AspNetCore.Mvc;
+using ParsingHtml;
 namespace MvcApp;
 
 public class HomeController : Controller
@@ -27,6 +29,7 @@ public class HomeController : Controller
                 }
                 catch
                 {
+                    Response.StatusCode = (int)HttpStatusCode.BadRequest;
                     return View("/Views/StatusCodes/AddressNotFound.cshtml");
                 }
             }

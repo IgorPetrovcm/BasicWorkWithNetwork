@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "LibTest2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LibTest2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibTest2.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibTest2/1.0.0": {
+      "type": "project",
+      "path": "../../../../Projects/ParsingHtmlLib/LibTest2/LibTest2/LibTest2.csproj",
+      "msbuildProject": "../../../../Projects/ParsingHtmlLib/LibTest2/LibTest2/LibTest2.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "LibTest2 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/admin/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/admin/General/Projects/ParsingHtmlLib/LibTest2/LibTest2/LibTest2.csproj": {
+              "projectPath": "/home/admin/General/Projects/ParsingHtmlLib/LibTest2/LibTest2/LibTest2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserProgram2", "ParserProgram2\ParserProgram2.csproj", "{D0720D01-71D6-46BD-92B7-61B2A98947F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTest2", "..\..\..\Projects\ParsingHtmlLib\LibTest2\LibTest2\LibTest2.csproj", "{77CF7B67-C9C4-4263-9B9D-C9F9D34F96C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,9 @@ Global
 		{D0720D01-71D6-46BD-92B7-61B2A98947F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0720D01-71D6-46BD-92B7-61B2A98947F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0720D01-71D6-46BD-92B7-61B2A98947F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CF7B67-C9C4-4263-9B9D-C9F9D34F96C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CF7B67-C9C4-4263-9B9D-C9F9D34F96C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CF7B67-C9C4-4263-9B9D-C9F9D34F96C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CF7B67-C9C4-4263-9B9D-C9F9D34F96C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

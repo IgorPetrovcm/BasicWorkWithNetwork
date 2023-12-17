@@ -6,4 +6,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\..\Projects\ParsingHtmlLib\LibTest2\LibTest2\LibTest2.csproj" />
+    </ItemGroup>
+
 </Project>
