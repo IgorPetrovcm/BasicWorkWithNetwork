@@ -1,0 +1,17 @@
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/bin/Debug/net7.0/Parser
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/bin/Debug/net7.0/Parser.deps.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/bin/Debug/net7.0/Parser.runtimeconfig.json
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/bin/Debug/net7.0/Parser.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/bin/Debug/net7.0/Parser.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/bin/Debug/net7.0/HtmlAgilityPack.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.AssemblyInfo.cs
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.csproj.CopyComplete
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/refint/Parser.dll
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.pdb
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/Parser.genruntimeconfig.cache
+/home/admin/General/csStudy/BasicWorkWithNetwork/Parser/obj/Debug/net7.0/ref/Parser.dll
