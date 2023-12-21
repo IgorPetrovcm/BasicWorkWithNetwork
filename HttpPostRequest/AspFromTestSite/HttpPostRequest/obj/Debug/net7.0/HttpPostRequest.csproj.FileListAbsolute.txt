@@ -1,0 +1,17 @@
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\bin\Debug\net7.0\HttpPostRequest.exe
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\bin\Debug\net7.0\HttpPostRequest.deps.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\bin\Debug\net7.0\HttpPostRequest.runtimeconfig.json
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\bin\Debug\net7.0\HttpPostRequest.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\bin\Debug\net7.0\HttpPostRequest.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.csproj.CopyComplete
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\refint\HttpPostRequest.dll
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.pdb
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\HttpPostRequest.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study_C#\BasicWorkWithNetwork\HttpPostRequest\AspFromTestSite\HttpPostRequest\obj\Debug\net7.0\ref\HttpPostRequest.dll

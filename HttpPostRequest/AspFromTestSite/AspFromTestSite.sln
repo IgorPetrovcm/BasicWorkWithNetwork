@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspFromTestSite", "AspFromTestSite\AspFromTestSite.csproj", "{21D583E3-ECD1-4BFA-8049-BE79B4D089E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpPostRequest", "HttpPostRequest\HttpPostRequest.csproj", "{287C7D50-69FA-4569-A5F5-BDAAE5EB2D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D583E3-ECD1-4BFA-8049-BE79B4D089E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D583E3-ECD1-4BFA-8049-BE79B4D089E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D583E3-ECD1-4BFA-8049-BE79B4D089E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D583E3-ECD1-4BFA-8049-BE79B4D089E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287C7D50-69FA-4569-A5F5-BDAAE5EB2D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287C7D50-69FA-4569-A5F5-BDAAE5EB2D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287C7D50-69FA-4569-A5F5-BDAAE5EB2D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287C7D50-69FA-4569-A5F5-BDAAE5EB2D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
